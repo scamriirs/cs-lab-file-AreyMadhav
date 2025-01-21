@@ -5,4 +5,4 @@ This repository contains C# projects for various lab exercises.
 
 ### Code Links
 1. Calculator
-[ViewCode](/Calculator/calc.cs)
+[View Code](/Calculator/calc.cs)
