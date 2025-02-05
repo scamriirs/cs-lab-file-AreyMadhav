@@ -6,3 +6,6 @@ This repository contains C# projects for various lab exercises.
 ### Code Links
 1. Calculator
 [View Code](/Calculator/calc.cs)
+
+2. Count to N number
+[View Code](/"Count To N"/main.cs)
