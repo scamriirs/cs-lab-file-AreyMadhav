@@ -18,3 +18,6 @@ This repository contains various C# projects for lab exercises.
 
 5. **Fibonacci Series**  
    [View Code](/Fibonacci/main.cs)
+
+6. **Sum of 10 numbers**
+   [View Code](/Sum%20of%2010%20Numbers/main.cs)
