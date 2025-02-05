@@ -8,4 +8,11 @@ This repository contains C# projects for various lab exercises.
 [View Code](/Calculator/calc.cs)
 
 2. Count to N number
-[View Code](/Count to N/main.cs)
+[View Code](/CounttoN/main.cs)
+
+3. Exception Handling
+[View Code](/ExceptionHandling/main.cs)
+
+4. Factorial using Recursion
+5. Fibonacci Series
+[View Code](/Fibonacci/main.cs)
