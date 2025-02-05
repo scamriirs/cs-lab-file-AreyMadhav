@@ -28,15 +28,3 @@ Click on any project below to view the code:
    [View Code](./Sum%20of%2010%20Numbers/main.cs)
 
 ---
-
-## ✨ Features  
-- Well-organized C# programs.
-- Covers basic and advanced topics, including recursion, exception handling, and number operations.
-- Beginner-friendly and easy-to-understand code.
-
----
-
-## 📖 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/csharp-lab.git
