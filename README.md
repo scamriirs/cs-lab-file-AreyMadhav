@@ -26,5 +26,11 @@ Click on any project below to view the code:
 
 6. ➕ **Sum of 10 Numbers**  
    [View Code](./Sum%20of%2010%20Numbers/main.cs)
+   
+7. ➕ **Default Constructor**  
+   [View Code](./Default%20Constructor/main.cs)
+   
+8. ➕ **Parameterized Constructor**  
+   [View Code](./Parameterized%20Constructor/main.cs)
 
 ---
