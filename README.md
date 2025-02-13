@@ -34,6 +34,6 @@ Click on any project below to view the code:
    [View Code](./Parameterized%20Constructor/main.cs)
 
 9. 🧮 **Inheritance Class**  
-   [View Code](./Inheritance%20Class/main.cs)
+   [View Code](./Inherited%20Class/main.cs)
 
 ---
